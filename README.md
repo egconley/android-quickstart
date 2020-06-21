@@ -21,7 +21,7 @@ This sample app runs on Android versions 21 and above.
 3. Add the Auth0 Domain and Client ID values present on your [client settings](https://manage.auth0.com/#/clients) page.
 
 > Given a Domain value of `"myuser.auth0.com"` and a Client ID value of `"1234567890abcdf"`, the file would look like:
-
+>
 > ```xml
 > <resources>
 >     <!-- ... -->
